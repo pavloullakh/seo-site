@@ -566,7 +566,7 @@ tv-texts {
 }
 
 .testimonials {
-    background: url(images/dark_bg_02.jpg) center no-repeat;
+    background: url(images/dark_bg_02.jpg);
     color: cover;
     -webkit-background-size: cover;
     padding-bottom: 20px;
